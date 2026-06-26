@@ -1,0 +1,6 @@
+-- ==============================================================================
+-- backup4.sql
+-- ==============================================================================
+-- NOTE: Please replace this file with the actual database backup using pg_dump.
+-- Run a command similar to the following in your terminal:
+-- pg_dump -U postgres -d your_db_name > "stage 4\backup4.sql"
