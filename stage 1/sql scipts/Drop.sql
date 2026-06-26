@@ -1,0 +1,12 @@
+DROP TABLE AgentReview;
+DROP TABLE Contract;
+DROP TABLE Schedule;
+DROP TABLE Property_Amenity;
+DROP TABLE Amenity;
+DROP TABLE Commercial;
+DROP TABLE Residential;
+DROP TABLE Property;
+DROP TABLE Client;
+DROP TABLE Agent;
+DROP TABLE City;
+DROP TABLE Area;
